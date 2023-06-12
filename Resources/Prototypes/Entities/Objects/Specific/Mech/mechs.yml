@@ -151,7 +151,7 @@
   id: MechHamtr
   parent: BaseMech
   name: HAMTR
-  description: "An experimental mech which uses a neuralink to interface directly to a hamsters brain."
+  description: "An experimental mech which uses a neuralink to interface directly to a rodents brain, specifically any hamster, mouse and rat. "
   components:
   - type: Sprite
     netsync: false
@@ -177,6 +177,7 @@
     pilotWhitelist:
       tags:
       - Hamster
+      - Mouse
   - type: MeleeWeapon
     hidden: true
     attackRate: 0.8

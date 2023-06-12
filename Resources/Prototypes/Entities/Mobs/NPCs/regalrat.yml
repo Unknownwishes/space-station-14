@@ -275,6 +275,7 @@
       - CannotSuicide
       - DoorBumpOpener
       - FootstepSound
+      - Mouse
   - type: NoSlip
   - type: MobPrice
     price: 500 # rat wealth

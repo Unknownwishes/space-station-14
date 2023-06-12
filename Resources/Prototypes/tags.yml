@@ -527,6 +527,9 @@
   id: Mop
 
 - type: Tag
+  id: Mouse
+
+- type: Tag
   id: Multitool
 
 - type: Tag
